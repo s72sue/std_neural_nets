@@ -1,0 +1,2 @@
+nengo>=2.4      # https://github.com/s72sue/std_neural_nets/issues/1#issuecomment-676542907
+matplotlib>=2.0 # https://stackoverflow.com/q/42008091

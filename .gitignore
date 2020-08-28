@@ -1,0 +1,10 @@
+# python virtualenv
+bin
+include
+lib
+pyvenv.cfg
+nengo
+
+# `jupyter nbconvert` and markdown artifacts
+*.html
+*.ipynb_checkpoints/
